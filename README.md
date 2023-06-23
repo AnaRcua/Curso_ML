@@ -23,3 +23,12 @@ _# Ejercicios día 3_
   *En esta práctica creamos mapas interactivos haciendo uso de la librería Folium.*
 - Archivo 3. Prophet.
   *En esta práctica utilizamos la librería Prophet, una de las librerías más avanzadas para predecir series temporales desarrollada por Facebook.El objetivo es entrenar un modelo con Prophet, optimizarlo y utilizarlo para realizar predicciones futuras.*
+
+_# Ejercicios día 4_
+
+- Archivo 1. SpaceX2. Interactive Visual Analytics con Folium
+  *Análisis visual interactivo de las ubicaciones de los sitios de lanzamiento de los cohetes con Folium.*
+- Archivo 2. Continuación de la práctica SpaceX2.
+  *El objetivo de la práctica es determinar si los Falcon 9 aterrizarán en la primera etapa y determinar el coste de un lanzamiento. Crear una línea de aprendizaje automático para predecir si la primera etapa aterrizará dados los datos de los laboratorios anteriores.*
+- Archivo 3. Continuación SpaceX. EDA con visualización de datos
+  *Realizar la visualización de datos y análizar los resultados para observar si coinciden con nuestros análisis anteriores*
